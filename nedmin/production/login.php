@@ -66,8 +66,8 @@ if (isset($_GET['durum'])) { // "durum" parametresinin varlığını kontrol et
               <br />
 
               <div>
-                <h1><i class="fa fa-paw"></i> Ne Yazılım</h1>
-                <p>©2017 Ne Yazılım tarafından kodlanmıştır.</p>
+                <h1><i class="fa fa-paw"></i> Selahattin Ferik </h1>
+                <p>©2017 Selahattin Ferik tarafından kodlanmıştır.</p>
               </div>
             </div>
           </form>
